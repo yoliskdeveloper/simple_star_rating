@@ -12,7 +12,7 @@
     width: 0;
 }
 
-/* Psuedo element */
+/* Psuedo element -- take in mind in the font-family section, if you want use previous font awesome please change the veersion*/
 .stars-outer::before {
     content: "\f005 \f005 \f005 \f005 \f005";
     font-family: "Font Awesome 5 Free";
